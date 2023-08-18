@@ -10,15 +10,19 @@ Our team is devoted to discovering convergence patterns from human trajectories 
 [2] Jinping Jia, Ying Hu, Bin Zhao, Genlin Ji, Richen Liu. Discovering Collective Converging Groups of Large Scale Moving Objects in Road Networks. DASFAA (2) 2021: 307-324
 
 ## Coding List Guidence
-**EuclidClustering:** //
+**EuclidClustering:** 
+
 A clustering algorithm for moving objects in Euclidean space, which rewrites DBSCAN algorithm to adapt to large-scale Euclidean distance based moving object clustering.
 
-**RoadNetworkClustering:** \\
+**RoadNetworkClustering:** 
+
 Two clustering algorithms for moving objects in Road Network. GetClusters includes a clustering algorithm based on Grid Index, while GetClustersPro includes a clustering algorithm based on our proposed index called VNIndex, which is detailed in our dasfaa paper.
 
-**MatchingAlgorithms:** \\
+**MatchingAlgorithms:** 
+
 Three cluster containment join algorithms. MatchingLoopNest is the naive method for cluster containment join. MatchingBreadTraversal is the classic method with a breadth traversal of the road network. MatchingProposed is our proposal based on the road network partitions.
 
 ## Other Statements
-Due to confidentiality issues, our data and its format are not publicly available.\\
+Due to confidentiality issues, our data and its format are not publicly available.
+
 Special thanks to Tan Shengxi, Yin Furong, Fang Ziruo and others for their contributions to the code of this warehouse.
