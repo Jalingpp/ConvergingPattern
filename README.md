@@ -10,7 +10,7 @@ Our team is devoted to discovering convergence patterns from human trajectories 
 [2] Jinping Jia, Ying Hu, Bin Zhao, Genlin Ji, Richen Liu. Discovering Collective Converging Groups of Large Scale Moving Objects in Road Networks. DASFAA (2) 2021: 307-324
 
 ## Coding List Guidence
-**EuclidClustering:** \\
+**EuclidClustering:** //
 A clustering algorithm for moving objects in Euclidean space, which rewrites DBSCAN algorithm to adapt to large-scale Euclidean distance based moving object clustering.
 
 **RoadNetworkClustering:** \\
