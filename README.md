@@ -1,5 +1,5 @@
 ## ConvergingPattern Introduction
-A converging represents a group event that a group of moving objects gradually come to a target area from different directions and eventually form one group. Examples of convergings include traffic jams, celebrations, protests, and so on.
+A converging represents a group event that a group of moving objects gradually come to a target area from different directions and eventually form one group. Examples of convergings include traffic jams, celebrations, protests, and so on. The key property of a converging is membership variation, which is the crucial distinction compared to the existing patterns.
 
 Our team is devoted to discovering convergence patterns from human trajectories and has successively studied convergence pattern mining algorithms both in Euclidean space and road networks. The difference between the two spaces is that the former is a planar space while the later is essentially a non-planar graph, which leads to different distance calculation methods. Therefore, existing pattern mining methods in Euclidean space cannot distinguish the group events with different heights in urban space, e.g. pedestrian overpasses, elevated highways, and the subway network.
 
