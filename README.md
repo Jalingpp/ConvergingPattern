@@ -17,10 +17,10 @@ Two clustering algorithms for moving objects in Road Network. GetClusters includ
 **MatchingAlgorithms:**     
 Three cluster containment join algorithms. MatchingLoopNest is the naive method for cluster containment join. MatchingBreadTraversal is the classic method with a breadth traversal of the road network. MatchingProposed is our proposal based on the road network partitions.
 
-**ConvergingOnlineMining:**
+**ConvergingOnlineMining:**  
 Three online clustering algorithms for streaming trajectories in Road Network. The MORN index is implemented in the Classes filefold, while the DCRN, DISC and IDCRN algorithmes are implemented in the Clustering filefold.
 
-**ConvergingMonitoring:**
+**ConvergingMonitoring:** 
 A lightweight implementation of the Converging Pattern online mining algorithm.
 
 ## Other Statements
